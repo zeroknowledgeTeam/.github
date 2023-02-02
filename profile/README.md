@@ -14,3 +14,9 @@
 
 💽 source code<br />
 🔗 :https://github.com/zeroknowledgeTeam/dittos
+
+📬contact</br>
+  📮lupin@coinplug.com</br>
+  📮chohk@coinplug.com</br>
+  📮hymy@coinplug.com</br>
+  📮jhchun@coinplug.com</br>
