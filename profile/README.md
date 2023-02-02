@@ -1,6 +1,5 @@
 ## ZKAA (Zero-Knowledge Address Abstraction)
 
-<!--
 📋thesis : "Bringing Identity from Web2 to Web3: Zero-Knowledge Address Abstraction"
 
 🔗thesis link : TBD
@@ -19,4 +18,3 @@
 
 🔗demo video link : TBD
 
--->
