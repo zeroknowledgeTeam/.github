@@ -1,22 +1,24 @@
-## ZKAA (Zero-Knowledge Address Abstraction)
+# ZKAA (Zero-Knowledge Address Abstraction)
 
-📋thesis : "Bringing Identity from Web2 to Web3: Zero-Knowledge Address Abstraction" <br/>
-🔗: TBD
+## 📌Seoul Hack 2023 - Aptos Foundation <br/>
 
-📚google slide : "Dittos - Zero-Knowledge Address Abstraction (zkAA)" <br/>
-🔗 : https://url.kr/yv1be5
+### 📋thesis : "Bringing Identity from Web2 to Web3: Zero-Knowledge Address Abstraction" <br/>
+#### 🔗: TBD
 
-🛠️implemntaion : demo video of "ditto" <br/>
-🔗 : TBD 
+### 📚google slide : "Dittos - Zero-Knowledge Address Abstraction (zkAA)" <br/>
+#### 🔗 : https://url.kr/yv1be5
 
-💻 presentation video<br/>
-🔗 : TBD
+### 🛠️implemntaion : demo video of "ditto" <br/>
+#### 🔗 : TBD 
 
-💽 source code<br />
-🔗 :https://github.com/zeroknowledgeTeam/dittos
+### 💻 presentation video<br/>
+#### 🔗 : TBD
 
-📬contact</br>
-  📮lupin@coinplug.com</br>
-  📮chohk@coinplug.com</br>
-  📮hymy@coinplug.com</br>
-  📮jhchun@coinplug.com</br>
+### 💽 source code <br />
+#### 🔗 :https://github.com/zeroknowledgeTeam/dittos
+
+### 📬contact</br>
+  #### 📮lupin@coinplug.com</br>
+  #### 📮chohk@coinplug.com</br>
+  #### 📮hymy@coinplug.com</br>
+  #### 📮jhchun@coinplug.com</br>
