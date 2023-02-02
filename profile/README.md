@@ -9,8 +9,8 @@
 🛠️implemntaion : demo video of "ditto" <br/>
 🔗 : TBD 
 
-💻 source code video: <br/>
+💻 presentation video<br/>
 🔗 : TBD
 
-💽 source code : <br />
-https://github.com/zeroknowledgeTeam/dittos
+💽 source code<br />
+🔗 :https://github.com/zeroknowledgeTeam/dittos
