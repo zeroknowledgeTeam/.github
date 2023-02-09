@@ -2,7 +2,7 @@
 
 ## 📌Seoul Hack 2023 - Aptos Foundation <br/>
 
-### 📋paper : "Bringing Identity from Web2 to Web3: Zero-Knowledge Address Abstraction" <br/>
+### 📋paper : "Bringing Identity from Web2 to Web3: Zero-Knowledge Address Abstraction" (feb/09 updated) <br/>
 #### 🔗 : https://url.kr/txs96w
 
 ### 📚google slide : "Dittos - Zero-Knowledge Address Abstraction (zkAA)" <br/>
