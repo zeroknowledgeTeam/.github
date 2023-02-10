@@ -17,6 +17,11 @@
 ### 💽 source code <br />
 #### 🔗 :https://github.com/zeroknowledgeTeam/dittos
 
+### FUTURE USE CASE 1 : (*ex. for DEFI - multi chain based DEFI system)
+### FUTURE USE CASE 2 : (*ex. for P2E - multi chain login with Nintendo, PsP id)
+
+
+
 ### 📬contact</br>
   #### 📮lupin@coinplug.com</br>
   #### 📮chohk@coinplug.com</br>
